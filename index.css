@@ -419,3 +419,7 @@ span{
 .courses-card p{
     font-size: 1.8rem;
 }
+.courses a{
+    color: var(--text-color);
+    font-weight: bold;
+}
